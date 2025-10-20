@@ -1,6 +1,6 @@
 import { Routes, Route } from 'react-router-dom';
 import SubmitPage from './SubmitPage';
-import Login from './login';
+import Login from './Login';
 import { useState } from 'react';
 import Signup from './Signup';
 import HomePage from './HomePage';
